@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning make games(and all things and related programming languages), Artificial Intelligence.
 - 🤔 I’m looking for help with best ways to write my code and lear from it.
 - 📫 How to reach me: caio.olivieri12@gmail.com with the subject  " I saw your profile on github ".
-- 😄 Pronouns: he/him
 - 🌎 From: I'm Brazilian from Rio de Janeiro.
 
 <div>
