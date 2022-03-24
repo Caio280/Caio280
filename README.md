@@ -9,8 +9,7 @@
 
 <div>
   <a href="https://github.com/Caio280">
-  <img height="160em" 
-       src="https://github-readme-stats.vercel.app/api?username=Caio280&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  
   <img height="160em" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio280&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
